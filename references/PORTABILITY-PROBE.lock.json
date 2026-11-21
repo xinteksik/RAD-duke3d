@@ -1,0 +1,60 @@
+{
+  "toolchain_archive": {
+    "file": "toolchains/gcc-arm-10.2-2020.11-x86_64-aarch64-none-elf.tar.xz",
+    "origin": "../RAD WOLF/RAD-Wolf-Zero2W-v0.3/toolchains/gcc-arm-10.2-2020.11-x86_64-aarch64-none-elf.tar.xz",
+    "sha256": "32abfbc7b24c56542f2a6e6969d6b8787e47f7223e8f2097d84151ebd9f86743",
+    "copied_not_shared": true
+  },
+  "upstream": {
+    "name": "JFDuke3D",
+    "url": "https://github.com/jonof/jfduke3d.git",
+    "revision": "55c5f9592d2a78e427a2bbdb13ce3c4c9ccf6f04",
+    "priority": "first_host_candidate",
+    "submodules": [
+      {
+        "path": "jfbuild",
+        "revision": "40a98be571e359a70fc60476899e4650e285dbca",
+        "url": "https://github.com/jonof/jfbuild.git"
+      },
+      {
+        "path": "jfaudiolib",
+        "revision": "68be97f6d33d7be2421a6bea437f21c60d70f8bb",
+        "url": "https://github.com/jonof/jfaudiolib.git"
+      },
+      {
+        "path": "jfmact",
+        "revision": "731c0cc4aabd3cc0f510c9322825f1b61b2e47b3",
+        "url": "https://github.com/jonof/jfmact.git"
+      }
+    ]
+  },
+  "host_baseline_unchanged": true,
+  "firmware_built": false,
+  "arm64_executable_built": false,
+  "input_probe_result": {
+    "scope": "x86_64 diagnostic host ELF, injected SDL keys; not physical input or hardware",
+    "checks": {
+      "forward_changes_position": true,
+      "release_settles_position": true,
+      "release_settles_velocity": true,
+      "fire_consumes_ammo": true,
+      "jump_leaves_ground": true,
+      "jump_returns_to_ground": true,
+      "crouch_lowers_view": true,
+      "release_crouch_restores_height": true,
+      "quit_opens_menu": true,
+      "normal_exit": true
+    },
+    "passed": true,
+    "resources": {
+      "elapsed_seconds": 8.994227811999963,
+      "timeout": false,
+      "exit_code": 0,
+      "max_rss_kib": 15360,
+      "user_seconds": 6.917657,
+      "system_seconds": 1.087003
+    },
+    "diagnostic_elf_sha256": "679ff73deb32ca14828a5ca29403bed7e4254bb3c0093a3f4edc208f9b5e6005",
+    "probe_sha256": "67f332f5b449edb8d81d9edc40364232cc4f4b2be2c3a414ff856fa88add33db"
+  }
+}

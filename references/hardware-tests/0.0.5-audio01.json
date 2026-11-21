@@ -1,0 +1,11 @@
+{
+  "candidate": "0.0.5-audio01",
+  "status": "NOT_TESTED",
+  "kernel_sha256": "54e1485740b96a6d879c6f23af84ff9cec99c5f87e4d20cf423ec51f1247ab27",
+  "physical_effects_audible": null,
+  "music_and_effects_balance": null,
+  "duration_seconds": null,
+  "actual_sid_models": null,
+  "physical_sd_written_by_agent": false,
+  "prior_stereo_user_report": "references/hardware-tests/0.0.4-stereo01.json"
+}

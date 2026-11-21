@@ -1,0 +1,78 @@
+{
+  "repositories": [
+    {
+      "name": "JFDuke3D",
+      "url": "https://github.com/jonof/jfduke3d.git",
+      "revision": "55c5f9592d2a78e427a2bbdb13ce3c4c9ccf6f04",
+      "path": "upstream/jfduke3d"
+    },
+    {
+      "name": "jfbuild",
+      "url": "https://github.com/jonof/jfbuild.git",
+      "revision": "40a98be571e359a70fc60476899e4650e285dbca",
+      "path": "upstream/jfduke3d/jfbuild"
+    },
+    {
+      "name": "jfaudiolib",
+      "url": "https://github.com/jonof/jfaudiolib.git",
+      "revision": "68be97f6d33d7be2421a6bea437f21c60d70f8bb",
+      "path": "upstream/jfduke3d/jfaudiolib"
+    },
+    {
+      "name": "jfmact",
+      "url": "https://github.com/jonof/jfmact.git",
+      "revision": "731c0cc4aabd3cc0f510c9322825f1b61b2e47b3",
+      "path": "upstream/jfduke3d/jfmact"
+    },
+    {
+      "name": "RAD-Doom",
+      "url": "https://github.com/frntc/RAD-Doom.git",
+      "revision": "81752f4347e8080ea76a9c49d8da0cd53dfbfa22",
+      "path": "upstream/rad-baseline/upstream/RAD-Doom"
+    },
+    {
+      "name": "circle-stdlib",
+      "url": "https://github.com/smuehlst/circle-stdlib.git",
+      "revision": "b5170283b55ba30552e2bdcf92e9ba528e47c44e",
+      "path": "upstream/rad-baseline/upstream/circle-stdlib"
+    },
+    {
+      "name": "Circle",
+      "url": "https://github.com/rsta2/circle.git",
+      "revision": "75bc0890490f4c38f8cdf0eee83a2bad40942566",
+      "path": "upstream/rad-baseline/upstream/circle-stdlib/libs/circle"
+    },
+    {
+      "name": "circle-newlib",
+      "url": "https://github.com/smuehlst/circle-newlib.git",
+      "revision": "6fe4bb7350b47e199093f5460226dec53506ccaf",
+      "path": "upstream/rad-baseline/upstream/circle-stdlib/libs/circle-newlib"
+    }
+  ],
+  "overrides": [
+    {
+      "source": "vendor/overrides/RAD-Doom/Source/rad_doom_defs.h",
+      "target": "upstream/rad-baseline/upstream/RAD-Doom/Source/rad_doom_defs.h",
+      "sha256": "35e3c846db448a25fdc5116b5d67eff7f36b4cae549c5888850ac1c24624efc6",
+      "base_sha256": "974eeff533bd96b4eebeaf9dba488476a51183f4bc1612babf76d45e4a4df70e"
+    },
+    {
+      "source": "vendor/overrides/RAD-Doom/Source/rad_doom_hijack.cpp",
+      "target": "upstream/rad-baseline/upstream/RAD-Doom/Source/rad_doom_hijack.cpp",
+      "sha256": "a071d92ce007461a21ac3ace24b19f374ade480fa3da2839de755002bf380e74",
+      "base_sha256": "68cbce9ca87c5e374f734c4165cc3b658533775fb7b037bc4c41a1b0fe457f55"
+    },
+    {
+      "source": "vendor/overrides/Circle/include/circle/sysconfig.h",
+      "target": "upstream/rad-baseline/upstream/circle-stdlib/libs/circle/include/circle/sysconfig.h",
+      "sha256": "beb700402c37b4da17e921fdb8bf4c4b242bd304e65ed24ecea02f40e4d4540f",
+      "base_sha256": "e2c891f088b644657c797cf06e6acf7a879e9cab6ea590d8dd3f486e892be5a3"
+    }
+  ],
+  "toolchain": {
+    "archive": "gcc-arm-10.2-2020.11-x86_64-aarch64-none-elf.tar.xz",
+    "sha256": "32abfbc7b24c56542f2a6e6969d6b8787e47f7223e8f2097d84151ebd9f86743",
+    "version": "aarch64-none-elf-gcc 10.2.1",
+    "url": "https://developer.arm.com/downloads/-/gnu-a"
+  }
+}

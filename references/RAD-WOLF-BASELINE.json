@@ -1,0 +1,82 @@
+{
+  "project": "RAD-Wolf",
+  "version": "0.3.5-rc1",
+  "confirmed_kernel_sha256": "5fa6c721a855c1b9f023887c5de26cf5f371f9ba2d425bbcd2a340e82c718a1c",
+  "confirmation_scope": "User reports gameplay and MIDI working with WL1 and then WL6; exact hardware not restated; no full-game or long stability claim",
+  "snapshot_relative_to_duke": "../RAD WOLF/GITHUB-UPDATE-v0.3.5-rc1/01-GITHUB/RAD-Wolf-v0.3.5-rc1-GitHub.zip",
+  "snapshot_sha256": "365c6a5d50505376aae4049174bf350ed33267f9999106d739c995cf3b9d0322",
+  "reference_only": true,
+  "license_compatibility_with_duke_not_established": true,
+  "files": [
+    {
+      "file": "src/radwolf_kernel.cpp",
+      "purpose": "Circle start, C64/SID setup and persistent FAT mount",
+      "sha256": "c1175226b5d1a8302c1864346db0b1bbd45c6ea80c3ecc6169023c7ba83fd006"
+    },
+    {
+      "file": "src/radwolf_rad_video.c",
+      "purpose": "Framebuffer conversion and retained RAD output",
+      "sha256": "5e858d2d14d94942deca82ddfa8d7116ca1228f7da1b9780dbf1f0ea042034fc"
+    },
+    {
+      "file": "src/radwolf_wolf_rad_input.cpp",
+      "purpose": "Shared keyboard scanner and clock",
+      "sha256": "4d6f27bc2a7833e31271dd5a32eb34d7284f8f57423652ac35e1f38979d16540"
+    },
+    {
+      "file": "src/radwolf_rad_input.c",
+      "purpose": "Held-key state from matrix events",
+      "sha256": "e30870216299b43c05f066428d66331e870ffb4b759ff8fffcd0b36620df6963"
+    },
+    {
+      "file": "src/radwolf_wolf_event_input.c",
+      "purpose": "Game/menu/text input separation",
+      "sha256": "ab237d7fe7a75a7e48ebd82142e7960f35939f241fa71db9b0a8dc2c41c21b29"
+    },
+    {
+      "file": "src/radwolf_audio.c",
+      "purpose": "Cooperative PCM producer and SID ring buffers",
+      "sha256": "05085dac645f3dd6bf96ab80f077a9292d5b14a7d11975bb0a9c83d252b30587"
+    },
+    {
+      "file": "src/radwolf_audio_config.c",
+      "purpose": "SID addresses and audio configuration",
+      "sha256": "590e6032caabf698806294ab4243d047719caee96ff55abdf005c01c65750707"
+    },
+    {
+      "file": "src/radwolf_midi.c",
+      "purpose": "MIDI/SF2 synthesis reference",
+      "sha256": "24666f0085f1b2654216bd4cd22be939f499510d7963a85223b74af331728bd4"
+    },
+    {
+      "file": "src/radwolf_downsample.c",
+      "purpose": "Audio resampling reference",
+      "sha256": "2b57d6fd245471dc1ba2f5d9ce145edbb80e563f286f99537adecfbc619f5a44"
+    },
+    {
+      "file": "src/radwolf_stdio_file.c",
+      "purpose": "Checked file adapter and SD path",
+      "sha256": "18ad57de9f1fa2da96eac94eba8d4b61fde6a1394c58de64d17ac5858756879e"
+    },
+    {
+      "file": "src/radwolf_surface.h",
+      "purpose": "Wolf-specific surface tagging; do not copy blindly",
+      "sha256": "30caada5286f86260d22cf647c43d22fab1958ebebe83a103a23cf51966d61fe"
+    },
+    {
+      "file": "tools/build_firmware.sh",
+      "purpose": "Cross-build workflow reference",
+      "sha256": "9a9fc91e5ec577b81676b0bf5fad068eabe4a776e73628683b4dc101dfafc681"
+    },
+    {
+      "file": "tools/export_corresponding_source.py",
+      "purpose": "Corresponding-source publication workflow",
+      "sha256": "e7e964fb0d67f0e92733d40a30af66a75f47661c055aa1bb4b06c79b20168ce0"
+    },
+    {
+      "file": "docs/LICENSING.md",
+      "purpose": "Component license inventory",
+      "sha256": "deeae8099281657381d66e3622c9507643a6f7ae87def22b293676744f8b5c9e"
+    }
+  ]
+}

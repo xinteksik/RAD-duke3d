@@ -1,0 +1,527 @@
+{
+  "original_midi_pan_present_in_all_tracks": true,
+  "tracks": [
+    {
+      "file": "DETHTOLL.MID",
+      "sha256": "fab5e912bca33a3053fd9ac48e285d96c984209001e4bb54534746a957e9659d",
+      "pan_event_count": 11,
+      "channels": {
+        "1": {
+          "events": 1,
+          "first": [
+            10,
+            64
+          ],
+          "distinct_values": 1
+        },
+        "2": {
+          "events": 1,
+          "first": [
+            10,
+            44
+          ],
+          "distinct_values": 1
+        },
+        "3": {
+          "events": 1,
+          "first": [
+            10,
+            84
+          ],
+          "distinct_values": 1
+        },
+        "4": {
+          "events": 1,
+          "first": [
+            10,
+            44
+          ],
+          "distinct_values": 1
+        },
+        "5": {
+          "events": 1,
+          "first": [
+            10,
+            84
+          ],
+          "distinct_values": 1
+        },
+        "6": {
+          "events": 1,
+          "first": [
+            10,
+            44
+          ],
+          "distinct_values": 1
+        },
+        "7": {
+          "events": 1,
+          "first": [
+            10,
+            19
+          ],
+          "distinct_values": 1
+        },
+        "8": {
+          "events": 1,
+          "first": [
+            10,
+            107
+          ],
+          "distinct_values": 1
+        },
+        "9": {
+          "events": 1,
+          "first": [
+            10,
+            19
+          ],
+          "distinct_values": 1
+        },
+        "10": {
+          "events": 1,
+          "first": [
+            10,
+            64
+          ],
+          "distinct_values": 1
+        },
+        "11": {
+          "events": 1,
+          "first": [
+            10,
+            107
+          ],
+          "distinct_values": 1
+        }
+      }
+    },
+    {
+      "file": "GRABBAG.MID",
+      "sha256": "928e50554b7e6682afb5dbed3551a81ad521dac38b80922bb1afcc390dc442b9",
+      "pan_event_count": 12,
+      "channels": {
+        "1": {
+          "events": 1,
+          "first": [
+            10,
+            33
+          ],
+          "distinct_values": 1
+        },
+        "2": {
+          "events": 1,
+          "first": [
+            10,
+            53
+          ],
+          "distinct_values": 1
+        },
+        "3": {
+          "events": 1,
+          "first": [
+            10,
+            73
+          ],
+          "distinct_values": 1
+        },
+        "4": {
+          "events": 1,
+          "first": [
+            10,
+            93
+          ],
+          "distinct_values": 1
+        },
+        "5": {
+          "events": 1,
+          "first": [
+            10,
+            93
+          ],
+          "distinct_values": 1
+        },
+        "6": {
+          "events": 1,
+          "first": [
+            10,
+            83
+          ],
+          "distinct_values": 1
+        },
+        "10": {
+          "events": 4,
+          "first": [
+            10,
+            64
+          ],
+          "distinct_values": 1
+        },
+        "11": {
+          "events": 1,
+          "first": [
+            10,
+            53
+          ],
+          "distinct_values": 1
+        },
+        "12": {
+          "events": 1,
+          "first": [
+            10,
+            53
+          ],
+          "distinct_values": 1
+        }
+      }
+    },
+    {
+      "file": "SNAKE1.MID",
+      "sha256": "04b1d580e1b0e91e50066b470d307dd359d89f07d3d2e4209c2e4f6b09e796a3",
+      "pan_event_count": 7,
+      "channels": {
+        "2": {
+          "events": 1,
+          "first": [
+            10,
+            124
+          ],
+          "distinct_values": 1
+        },
+        "3": {
+          "events": 1,
+          "first": [
+            10,
+            4
+          ],
+          "distinct_values": 1
+        },
+        "4": {
+          "events": 1,
+          "first": [
+            10,
+            64
+          ],
+          "distinct_values": 1
+        },
+        "5": {
+          "events": 1,
+          "first": [
+            10,
+            54
+          ],
+          "distinct_values": 1
+        },
+        "6": {
+          "events": 1,
+          "first": [
+            10,
+            74
+          ],
+          "distinct_values": 1
+        },
+        "7": {
+          "events": 1,
+          "first": [
+            10,
+            64
+          ],
+          "distinct_values": 1
+        },
+        "10": {
+          "events": 1,
+          "first": [
+            10,
+            64
+          ],
+          "distinct_values": 1
+        }
+      }
+    },
+    {
+      "file": "STALKER.MID",
+      "sha256": "d568978021151374e533019e9c3ee9ea10f72ac59795ac47ef686faa760fa294",
+      "pan_event_count": 18,
+      "channels": {
+        "1": {
+          "events": 1,
+          "first": [
+            10,
+            44
+          ],
+          "distinct_values": 1
+        },
+        "2": {
+          "events": 2,
+          "first": [
+            10,
+            34
+          ],
+          "distinct_values": 1
+        },
+        "3": {
+          "events": 1,
+          "first": [
+            10,
+            69
+          ],
+          "distinct_values": 1
+        },
+        "4": {
+          "events": 2,
+          "first": [
+            10,
+            94
+          ],
+          "distinct_values": 1
+        },
+        "5": {
+          "events": 1,
+          "first": [
+            10,
+            59
+          ],
+          "distinct_values": 1
+        },
+        "6": {
+          "events": 1,
+          "first": [
+            10,
+            113
+          ],
+          "distinct_values": 1
+        },
+        "7": {
+          "events": 1,
+          "first": [
+            10,
+            74
+          ],
+          "distinct_values": 1
+        },
+        "8": {
+          "events": 1,
+          "first": [
+            10,
+            54
+          ],
+          "distinct_values": 1
+        },
+        "9": {
+          "events": 1,
+          "first": [
+            10,
+            14
+          ],
+          "distinct_values": 1
+        },
+        "10": {
+          "events": 6,
+          "first": [
+            10,
+            64
+          ],
+          "distinct_values": 1
+        },
+        "11": {
+          "events": 1,
+          "first": [
+            10,
+            94
+          ],
+          "distinct_values": 1
+        }
+      }
+    },
+    {
+      "file": "STREETS.MID",
+      "sha256": "a6ddca44676113c3acc8b4d60f513654bff2928a328930bd87eee19cacdd0008",
+      "pan_event_count": 2833,
+      "channels": {
+        "2": {
+          "events": 859,
+          "first": [
+            10,
+            64
+          ],
+          "distinct_values": 128
+        },
+        "3": {
+          "events": 1,
+          "first": [
+            10,
+            64
+          ],
+          "distinct_values": 1
+        },
+        "4": {
+          "events": 985,
+          "first": [
+            10,
+            32
+          ],
+          "distinct_values": 128
+        },
+        "5": {
+          "events": 985,
+          "first": [
+            10,
+            35
+          ],
+          "distinct_values": 128
+        },
+        "6": {
+          "events": 1,
+          "first": [
+            10,
+            87
+          ],
+          "distinct_values": 1
+        },
+        "7": {
+          "events": 1,
+          "first": [
+            10,
+            39
+          ],
+          "distinct_values": 1
+        },
+        "10": {
+          "events": 1,
+          "first": [
+            10,
+            64
+          ],
+          "distinct_values": 1
+        }
+      }
+    },
+    {
+      "file": "THECALL.MID",
+      "sha256": "1b204743e665b810bd7d7d3fadd096a557543aca3f5b91280e2b9179a28e8227",
+      "pan_event_count": 310,
+      "channels": {
+        "2": {
+          "events": 304,
+          "first": [
+            10,
+            20
+          ],
+          "distinct_values": 4
+        },
+        "3": {
+          "events": 1,
+          "first": [
+            10,
+            64
+          ],
+          "distinct_values": 1
+        },
+        "4": {
+          "events": 1,
+          "first": [
+            10,
+            84
+          ],
+          "distinct_values": 1
+        },
+        "5": {
+          "events": 1,
+          "first": [
+            10,
+            44
+          ],
+          "distinct_values": 1
+        },
+        "6": {
+          "events": 1,
+          "first": [
+            10,
+            94
+          ],
+          "distinct_values": 1
+        },
+        "9": {
+          "events": 1,
+          "first": [
+            10,
+            64
+          ],
+          "distinct_values": 1
+        },
+        "10": {
+          "events": 1,
+          "first": [
+            10,
+            64
+          ],
+          "distinct_values": 1
+        }
+      }
+    },
+    {
+      "file": "WATRWLD1.MID",
+      "sha256": "0058f8b8d8b0ba529ef9e57bbb74be011dfb655fd780c7a9724c618c5f1587ef",
+      "pan_event_count": 1303,
+      "channels": {
+        "2": {
+          "events": 1,
+          "first": [
+            10,
+            64
+          ],
+          "distinct_values": 1
+        },
+        "3": {
+          "events": 1,
+          "first": [
+            10,
+            64
+          ],
+          "distinct_values": 1
+        },
+        "4": {
+          "events": 1,
+          "first": [
+            10,
+            84
+          ],
+          "distinct_values": 1
+        },
+        "5": {
+          "events": 1,
+          "first": [
+            10,
+            44
+          ],
+          "distinct_values": 1
+        },
+        "6": {
+          "events": 1297,
+          "first": [
+            10,
+            12
+          ],
+          "distinct_values": 128
+        },
+        "7": {
+          "events": 1,
+          "first": [
+            10,
+            84
+          ],
+          "distinct_values": 1
+        },
+        "10": {
+          "events": 1,
+          "first": [
+            10,
+            64
+          ],
+          "distinct_values": 1
+        }
+      }
+    }
+  ],
+  "interpretation": "MIDI Pan CC10/42 is preserved; width 0 disables automatic extra placement, not stereo."
+}

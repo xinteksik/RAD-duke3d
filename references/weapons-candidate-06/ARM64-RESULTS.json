@@ -1,0 +1,415 @@
+[
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/src/actors.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/src_actors.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/src/config.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/src_config.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/src/game.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/src_game.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/src/gamedef.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/src_gamedef.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/src/global.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/src_global.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/src/grpscan.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/src_grpscan.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/src/menues.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/src_menues.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/src/osdcmds.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/src_osdcmds.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/src/osdfuncs.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/src_osdfuncs.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/src/player.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/src_player.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/src/premap.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/src_premap.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/src/rts.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/src_rts.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/src/sector.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/src_sector.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/src/sounds.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/src_sounds.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfmact/animlib.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfmact_animlib.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfmact/control.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfmact_control.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfmact/file_lib.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfmact_file_lib.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfmact/keyboard.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfmact_keyboard.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfmact/mathutil.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfmact_mathutil.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfmact/mouse.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfmact_mouse.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfmact/scriplib.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfmact_scriplib.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfmact/util_lib.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfmact_util_lib.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfbuild/src/a-c.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfbuild_src_a-c.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfbuild/src/asmprot.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfbuild_src_asmprot.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfbuild/src/baselayer.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfbuild_src_baselayer.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfbuild/src/cache1d.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfbuild_src_cache1d.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfbuild/src/compat.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfbuild_src_compat.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfbuild/src/crc32.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfbuild_src_crc32.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfbuild/src/defs.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfbuild_src_defs.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfbuild/src/engine.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfbuild_src_engine.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfbuild/src/kplib.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfbuild_src_kplib.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfbuild/src/mmulti_null.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfbuild_src_mmulti_null.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfbuild/src/osd.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfbuild_src_osd.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfbuild/src/pragmas.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfbuild_src_pragmas.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfbuild/src/scriptfile.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfbuild_src_scriptfile.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfbuild/src/smalltextfont.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfbuild_src_smalltextfont.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfbuild/src/startwin_stub.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfbuild_src_startwin_stub.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfbuild/src/talltextfont.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfbuild_src_talltextfont.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfbuild/src/textfont.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfbuild_src_textfont.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfaudiolib/src/asssys.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfaudiolib_src_asssys.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfaudiolib/src/cd.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfaudiolib_src_cd.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfaudiolib/src/driver_nosound.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfaudiolib_src_driver_nosound.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfaudiolib/src/drivers.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfaudiolib_src_drivers.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfaudiolib/src/fx_man.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfaudiolib_src_fx_man.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfaudiolib/src/midi.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfaudiolib_src_midi.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfaudiolib/src/mix.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfaudiolib_src_mix.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfaudiolib/src/mixst.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfaudiolib_src_mixst.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfaudiolib/src/multivoc.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfaudiolib_src_multivoc.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfaudiolib/src/pitch.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfaudiolib_src_pitch.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-source/jfaudiolib/src/vorbis.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/jfaudiolib_src_vorbis.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/src/radduke_music.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/radduke_music.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/src/radduke_downsample.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/radduke_downsample.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/src/radduke_music_ring.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/radduke_music_ring.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/src/radduke_audio_config.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/radduke_audio_config.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/src/radduke_audio_startup.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/radduke_audio_startup.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/src/radduke_pcm.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/radduke_pcm.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/src/radduke_build_platform.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/radduke_build_platform.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/src/radduke_pathstat.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/radduke_pathstat.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  },
+  {
+    "source": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/versions.c",
+    "object": "/mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-arm64/versions.c.o",
+    "exit_code": 0,
+    "cached": true,
+    "diagnostics": ""
+  }
+]

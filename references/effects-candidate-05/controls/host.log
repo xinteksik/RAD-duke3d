@@ -1,0 +1,105 @@
+host audio: config=0 stereo-requested=1 MIDI_STEREO_WIDTH=0 (no physical SID detection)
+Added /mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-host/ to search path.
+Music off.
+Sound off.
+Added /mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-host-runs/gameplay/ to search path.
+
+JFDuke3D
+Based on Duke Nukem 3D by 3D Realms Entertainment.
+Additional improvements by Jonathon Fowler (http://www.jonof.id.au) and other contributors.
+See GPL.TXT for license terms.
+
+Version RADDUKE-55c5f95.
+Built 2026-11-20 00:00:00.
+Added /mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-host/ to search path.
+Music off.
+Sound off.
+Added /mnt/d/Dropbox/01 Projects/RAD DUKE3D/build/effects-host-runs/gameplay/ to search path.
+
+JFDuke3D
+Based on Duke Nukem 3D by 3D Realms Entertainment.
+Additional improvements by Jonathon Fowler (http://www.jonof.id.au) and other contributors.
+See GPL.TXT for license terms.
+
+Version RADDUKE-55c5f95.
+Built 2026-11-20 00:00:00.
+
+BUILD engine by Ken Silverman (http://www.advsys.net/ken)
+Additional improveme
+BUILD engine by Ken Silverman (http://www.advsys.net/ken)
+Additional improvements by Jonathon Fowler (http://www.jonof.id.au)
+and other contributors. See BUILDLIC.TXT for terms.
+
+Version 40a98be.
+Built 2026-11-20 00:00:00 using GCC 13.3.
+64-bit word size.
+
+RADDUKE base services: indexed 320x200, silent
+Scanning for GRP files...
+ Checksumming duke3d.grp
+GRP file: duke3d.grp
+Compiling: game.con (99639 bytes)
+Including: DEFS.CON (28893 bytes)
+Including: USER.CON (36960 bytes)
+Looks like Standard CON files.
+  * WARNING!(L157 game.con) Expected a 'action' label but found a 'define' label instead.
+Code Size: 48520 bytes (1425 labels).
+nts by Jonathon Fowler (http://www.jonof.id.au)
+and other contributors. See BUILDLIC.TXT for terms.
+
+Version 40a98be.
+Built 2026-11-20 00:00:00 using GCC 13.3.
+64-bit word size.
+
+Scanning for GRP files...
+ Checksumming duke3d.grp
+GRP file: duke3d.grp
+Compiling: game.con (99639 bytes)
+Including: DEFS.CON (28893 bytes)
+Including: USER.CON (36960 bytes)
+Looks like Standard CON files.
+  * WARNING!(L157 game.con) Expected a 'action' label but found a 'define' label instead.
+Code Size: 48520 bytes (1425 labels).
+*** You have run Duke Nukem 3D 0 times. ***
+
+Loading art header.
+initcache(): Initialised with 16777216 bytes
+Loading palette/lookups.
+
+Duke Nukem 3D (Unregistered Shareware)
+Copyright (c) 1996 3D Realms Entertainment
+
+Distribution of shareware Duke Nukem 3D is restricted in certain ways.
+Please read LICENSE.DOC for more details.
+
+RTS Manager Started.
+RTS file DUKE.RTS was not found
+setgamma: sys gamma failed, trying palette
+Checking sound inits.
+effects: cooperative MultiVoc PCM ready; 22050 Hz stereo S16
+music: SF2 ready; 64 voices; 44100 -> FIR -> 22050 Hz
+RADDUKE MIDI/SF2 and MultiVoc effects enabled.
+music: play GRABBAG.MID; duration=62088 ms notes=4326 messages=4519 loop=1
+Loaded map hack file E1L1.mhk
+Cache time: 424ms
+music: play stalker.mid; duration=163389 ms notes=9490 messages=10896 loop=1
+*** You have run Duke Nukem 3D 0 times. ***
+
+Loading art header.
+initcache(): Initialised with 16777216 bytes
+Loading palette/lookups.
+
+Duke Nukem 3D (Unregistered Shareware)
+Copyright (c) 1996 3D Realms Entertainment
+
+Distribution of shareware Duke Nukem 3D is restricted in certain ways.
+Please read LICENSE.DOC for more details.
+
+RTS Manager Started.
+RTS file DUKE.RTS was not found
+Checking sound inits.
+RADDUKE MIDI/SF2 and MultiVoc effects enabled.
+Loaded map hack file E1L1.mhk
+Cache time: 424ms
+Press F1 Press F1 for Help
+for Help

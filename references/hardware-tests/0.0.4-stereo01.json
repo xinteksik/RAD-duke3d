@@ -1,0 +1,9 @@
+{
+  "candidate": "0.0.4-stereo01",
+  "kernel_sha256": "f04fd84ddf13da84e4241c67b45585db56d35815585a753e67853783e256c8ba",
+  "status": "USER_REPORTS_MUSIC_AND_APPARENT_STEREO",
+  "user_statement": "hudba hraje i stereo zdá se. pøijde mi že original hudba byla taky stereo, je to i tady?",
+  "stereo_channel_separation_definitively_verified": false,
+  "independent_card_hash_supplied": false,
+  "duration_seconds": null
+}

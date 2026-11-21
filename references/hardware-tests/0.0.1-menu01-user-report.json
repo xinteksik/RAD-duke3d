@@ -1,0 +1,11 @@
+{
+  "status": "USER_REPORTED_LOADED",
+  "user_statement": "btw, otestoval jsem a načetl ose to. ted jen dodělat klavesy pro střelbu skok běh a mohu testovat dál",
+  "supplied_candidate": "0.0.1-menu01",
+  "supplied_kernel_sha256": "862028117b9ec25b7d6501a995e79f783227d795b70b8ca1b2872d65733afff9",
+  "kernel_hash_reported_by_user": null,
+  "candidate_association": "inferred from immediately preceding SD handoff",
+  "duration_seconds": null,
+  "exact_hardware_configuration": "not restated; thread target Pi Zero 2 W + RAD + PAL C64",
+  "new_controls_candidate_tested": false
+}

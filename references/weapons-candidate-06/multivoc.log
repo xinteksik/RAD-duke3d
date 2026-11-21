@@ -1,0 +1,4 @@
+effects: cooperative MultiVoc PCM ready; 22050 Hz stereo S16
+VOC build/effects-assets/KICKHIT.VOC: peak=31744 nonzero=11036 completion=OK
+VOC build/effects-assets/PISTOL.VOC: peak=32768 nonzero=25022 completion=OK
+Pinned VOC decoding, mixing, voice completion, callback and silent drain: OK

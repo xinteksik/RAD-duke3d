@@ -1,0 +1,11 @@
+{
+  "candidate": "0.0.6-weapons01",
+  "digit_mappings_checked": 10,
+  "baseline_kick_and_pistol_switch": true,
+  "unowned_weapons_rejected": true,
+  "owned_fixture_actual_weapon_changes": 6,
+  "shareware_7_to_0_rejected": true,
+  "fixture_scope": "Host-only grants slots 1-6 and ammo; never linked into firmware",
+  "physical_keyboard_tested": false,
+  "registered_data_tested": false
+}

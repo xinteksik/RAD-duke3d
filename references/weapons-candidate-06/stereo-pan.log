@@ -1,0 +1,12 @@
+music: SF2 ready; 64 voices; 44100 -> FIR -> 22050 Hz
+music: play ; duration=1000 ms notes=1 messages=4 loop=0
+music: play ; duration=1000 ms notes=1 messages=4 loop=0
+music: play ; duration=1000 ms notes=1 messages=4 loop=0
+music: play ; duration=1000 ms notes=1 messages=5 loop=0
+music: play ; duration=1000 ms notes=1 messages=5 loop=0
+music: play ; duration=1000 ms notes=1 messages=6 loop=0
+music: play ; duration=1000 ms notes=1 messages=4 loop=0
+music: play ; duration=1000 ms notes=1 messages=4 loop=0
+music: play ; duration=1000 ms notes=1 messages=4 loop=0
+music: play ; duration=1000 ms notes=1 messages=4 loop=0
+MIDI auto stereo, explicit pan precedence/reset, centered bass/percussion, width clamp: OK

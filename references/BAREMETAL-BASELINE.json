@@ -1,0 +1,9 @@
+{
+  "source_archive": "RAD WOLF\\GITHUB-UPDATE-v0.3.5-rc1\\02-RELEASE\\RAD-Wolf-v0.3.5-rc1-source.tar.gz",
+  "source_archive_sha256": "0655d16aba00c1f22ea43c4e7cad90971b3eb055a3304c072d8eda19b8d46800",
+  "snapshot_zip_sha256": "365c6a5d50505376aae4049174bf350ed33267f9999106d739c995cf3b9d0322",
+  "destination": "upstream/rad-baseline",
+  "copied_not_shared": true,
+  "public_combined_distribution_license_resolved": false,
+  "purpose": "private local no-sound menu integration, no public release"
+}

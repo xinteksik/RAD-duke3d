@@ -1,0 +1,9 @@
+{
+  "candidate": "0.0.3-music01",
+  "status": "USER_REPORTED_MUSIC_PLAYING",
+  "kernel_sha256": "548aa4e8ae8a437f12e9a1918dac2e128aaf17087de04eac9b7d55de69f0788a",
+  "user_statement": "hudba hraje, pøevezmi to z wolf3d, tedy stereo a nastavení sid pøes cfg",
+  "independent_card_hash_supplied": false,
+  "duration_seconds": null,
+  "stereo_confirmed": false
+}

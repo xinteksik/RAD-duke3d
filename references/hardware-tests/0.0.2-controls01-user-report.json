@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-20",
+  "candidate": "0.0.2-controls01",
+  "alpha_version": "v0.1.0-alpha.1",
+  "kernel_sha256": "b05809ad8ace149a42a27b3973645aa36c302b98b5bb2e40f725a371895317e5",
+  "report": "otestoval jsem a ok, mužeš z toho udělat první alfa build pro github",
+  "result": "user reports test OK after controls update",
+  "association": "latest supplied candidate in conversation; user did not independently supply SD kernel hash",
+  "kernel_hash_independently_verified_on_hardware": false,
+  "duration_seconds": null,
+  "fps": null,
+  "per_action_hardware_results": null,
+  "sd_written_by_agent": false
+}

@@ -1,0 +1,9 @@
+{
+  "candidate": "0.0.6-weapons01",
+  "status": "NOT_TESTED",
+  "kernel_sha256": "c00374301d26d59e4e2677c7b7d6dc975f7279e97a71de728dff16a4b60f6454",
+  "physical_weapon_selection_tested": false,
+  "physical_effects_tested": false,
+  "duration_seconds": null,
+  "physical_sd_written_by_agent": false
+}

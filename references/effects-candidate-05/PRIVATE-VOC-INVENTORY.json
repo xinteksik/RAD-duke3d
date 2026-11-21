@@ -1,0 +1,15 @@
+{
+  "private_assets_only": true,
+  "files": [
+    {
+      "file": "KICKHIT.VOC",
+      "bytes": 1806,
+      "sha256": "092df772355c30d8c802d6feafbc4dbdcb8659f14e107954a7e6f52febe5ebe5"
+    },
+    {
+      "file": "PISTOL.VOC",
+      "bytes": 3764,
+      "sha256": "0ebc31a0617941a13674136bcae000e013d3776ffc0b3865632735968bc89441"
+    }
+  ]
+}

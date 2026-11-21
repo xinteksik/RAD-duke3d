@@ -1,0 +1,49 @@
+{
+  "purpose": "isolated private software-only x86_64 host reference; not firmware",
+  "date": "2026-11-20",
+  "repository": {
+    "name": "JFDuke3D",
+    "url": "https://github.com/jonof/jfduke3d.git",
+    "revision": "55c5f9592d2a78e427a2bbdb13ce3c4c9ccf6f04",
+    "priority": "first_host_candidate",
+    "submodules": [
+      {
+        "path": "jfbuild",
+        "revision": "40a98be571e359a70fc60476899e4650e285dbca",
+        "url": "https://github.com/jonof/jfbuild.git"
+      },
+      {
+        "path": "jfaudiolib",
+        "revision": "68be97f6d33d7be2421a6bea437f21c60d70f8bb",
+        "url": "https://github.com/jonof/jfaudiolib.git"
+      },
+      {
+        "path": "jfmact",
+        "revision": "731c0cc4aabd3cc0f510c9322825f1b61b2e47b3",
+        "url": "https://github.com/jonof/jfmact.git"
+      }
+    ]
+  },
+  "source_modification": "JFBuild Makefile: mmulti.o replaced by existing mmulti_null.o",
+  "build_script": "tools/host-build.sh",
+  "runtime_script": "tools/host-run.sh",
+  "source_date_epoch": 1795171200,
+  "options": [
+    "USE_OPENGL=0",
+    "USE_POLYMOST=0",
+    "USE_ASM=0",
+    "WITHOUT_GTK=1",
+    "PKGCONFIG=/bin/false"
+  ],
+  "compiler_options": "-fomit-frame-pointer -O2 -g -ffile-prefix-map=<isolated-source>=.",
+  "builds": [
+    {
+      "directory": "build/host-04",
+      "sha256": "0bf502f672026c1ae4d94051613ef149d4844a92624ac33c30ecc24f6a8a7ac9"
+    },
+    {
+      "directory": "build/host-05",
+      "sha256": "0bf502f672026c1ae4d94051613ef149d4844a92624ac33c30ecc24f6a8a7ac9"
+    }
+  ]
+}

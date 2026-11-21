@@ -1,0 +1,19 @@
+{
+  "scope": "actual host E1L1 using shared raw C64 input adapter; no physical keyboard claim",
+  "checks": {
+    "walking_moves": true,
+    "shift_run_bit": true,
+    "shift_doubles_input_speed": true,
+    "commodore_fires": true,
+    "alias_still_fires_after_commodore_release": true,
+    "fire_releases": true,
+    "a_jumps": true,
+    "jump_lands": true,
+    "z_crouches": true,
+    "crouch_releases": true,
+    "space_use_bit": true,
+    "all_actions_release": true
+  },
+  "passed": true,
+  "hardware_controls_tested": false
+}

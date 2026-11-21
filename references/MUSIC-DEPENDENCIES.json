@@ -1,0 +1,46 @@
+{
+  "code": [
+    {
+      "file": "third_party/tsf.h",
+      "origin": "upstream/rad-baseline/third_party/tsf.h",
+      "sha256": "70d55963c98f60ebb81518eaa1f25d46888d5180eb5f5289fd6b74ffc177d197",
+      "license": "MIT"
+    },
+    {
+      "file": "third_party/tml.h",
+      "origin": "upstream/rad-baseline/third_party/tml.h",
+      "sha256": "93257db259e0efb2ea2037d7157841bec8cb4a2d7986286e43c8090705326546",
+      "license": "Zlib"
+    },
+    {
+      "file": "src/radduke_downsample.c",
+      "origin": "upstream/rad-baseline/src/radwolf_downsample.c",
+      "origin_sha256": "2b57d6fd245471dc1ba2f5d9ce145edbb80e563f286f99537adecfbc619f5a44",
+      "sha256": "dae20a1f9063159e78589f7b8cc3539eb818d74f74828b398f259441d2a6a3b3",
+      "license": "GPL-3.0-or-later"
+    },
+    {
+      "file": "src/radduke_downsample.h",
+      "origin": "upstream/rad-baseline/src/radwolf_downsample.h",
+      "origin_sha256": "6bbd68b32a9eba43fb3cbb1fb6e09017e43d2c4643c9481bb14228becbd56c9a",
+      "sha256": "9cb8bfe291ed523d77af139d1058a8e7368e7bccfcc9fc1963083590c38acedd",
+      "license": "GPL-3.0-or-later"
+    },
+    {
+      "file": "src/radduke_downsample_coeffs.h",
+      "origin": "upstream/rad-baseline/src/radwolf_downsample_coeffs.h",
+      "origin_sha256": "20cbbe7223e2ddc66ca4104d56d1553578b4211eb9c18e77211da45af12f2df5",
+      "sha256": "6b84411dc37d8520c10e8ee6c22f45cb006c7ef8d267d1831a9aa4fe923426ae",
+      "license": "GPL-3.0-or-later"
+    }
+  ],
+  "soundfont": {
+    "origin": "RAD WOLF\\03 Resources\\Soundfonts\\soundfont.sf2",
+    "private_copy": "build/music-assets/soundfont.sf2",
+    "bytes": 3299098,
+    "sha256": "a9058609b07c1f0e0c1f420e76c2e80ba78136e6173e836caab51ffb13e552f1",
+    "redistribution_permission_asserted": false
+  },
+  "third_party_revision": "853a0a171759f1ddba0de1442133a75912bbeffa (frozen Wolf notice)",
+  "combined_firmware_public_distribution_cleared": false
+}

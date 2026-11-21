@@ -1,0 +1,36 @@
+{
+  "scope": "private local integration; combined public distribution not cleared",
+  "changes": [
+    "boot entry",
+    "indexed RGB handoff",
+    "remove Wolf surface tags/config",
+    "shared keyboard callback name"
+  ],
+  "dma_pal_gpio_sd_timing_changes": false,
+  "files": [
+    {
+      "reference": "upstream/rad-baseline/src/radwolf_kernel.cpp",
+      "reference_sha256": "c1175226b5d1a8302c1864346db0b1bbd45c6ea80c3ecc6169023c7ba83fd006",
+      "adapted": "src/radduke_kernel.cpp",
+      "adapted_sha256": "8b7f606984fe559fa8aa25f1f612f322d38acb1b5fc2cefed6644d8744c22e93"
+    },
+    {
+      "reference": "upstream/rad-baseline/src/radwolf_rad_video.c",
+      "reference_sha256": "5e858d2d14d94942deca82ddfa8d7116ca1228f7da1b9780dbf1f0ea042034fc",
+      "adapted": "src/radduke_rad_video.c",
+      "adapted_sha256": "b3fe56ea59185758c363f7a3b30c35f00f994beaafc60019cde82d9d62b85634"
+    },
+    {
+      "reference": "upstream/rad-baseline/upstream/RAD-Doom/Source/rad_doom_hijack.cpp",
+      "reference_sha256": "a071d92ce007461a21ac3ace24b19f374ade480fa3da2839de755002bf380e74",
+      "adapted": "src/radduke_rad_hijack.cpp",
+      "adapted_sha256": "73badf398e1037b17bc4acfbc8ad1009541b96533825e52c31fa68650e68640a"
+    },
+    {
+      "reference": "upstream/rad-baseline/upstream/circle-stdlib/libs/circle-newlib/libgloss/circle/io.cpp",
+      "reference_sha256": "17ee5d445b180e71b9a7254dbaaeb2dc79d37dbbb20748d094bbef1e8b720972",
+      "adapted": "src/radduke_newlib_io.cpp",
+      "adapted_sha256": "c5b30f16ecac474f4bde1370489a54ebf82cd9e88aaadcb8a2bafce921a88d64"
+    }
+  ]
+}

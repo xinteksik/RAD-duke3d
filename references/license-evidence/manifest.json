@@ -1,0 +1,59 @@
+{
+  "files": [
+    {
+      "file": "JFDuke3D-GPL-2.txt",
+      "origin": "upstream/jfduke3d/GPL.TXT",
+      "sha256": "2f4d8811d21f8a6e1ba2353644e93a973cf3ef326776a06ff755b9357f4ca248"
+    },
+    {
+      "file": "JFBuild-BUILDLIC.txt",
+      "origin": "upstream/jfduke3d/jfbuild/COPYING",
+      "sha256": "54856ef1e01f294f2aef48c2e094deceac489e9533be55f1c946da8a44808519"
+    },
+    {
+      "file": "JFBuild-Fowler-grant.txt",
+      "origin": "upstream/jfduke3d/jfbuild/LICENSE",
+      "sha256": "4e46b2166b71d96bf248aa56b3ca9bfff65f185fd3c8fc25ec1f49aa217b5d77"
+    },
+    {
+      "file": "RAD-Doom-GPL-3.txt",
+      "origin": "RAD WOLF\\GITHUB-UPDATE-v0.3.5-rc1\\02-RELEASE\\RAD-Wolf-v0.3.5-rc1-source.tar.gz::RAD-Wolf-v0.3.5-rc1-source/upstream/RAD-Doom/LICENSE",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    {
+      "file": "circle-stdlib-GPL-3.txt",
+      "origin": "RAD WOLF\\GITHUB-UPDATE-v0.3.5-rc1\\02-RELEASE\\RAD-Wolf-v0.3.5-rc1-source.tar.gz::RAD-Wolf-v0.3.5-rc1-source/upstream/circle-stdlib/LICENSE",
+      "sha256": "589ed823e9a84c56feb95ac58e7cf384626b9cbf4fda2a907bc36e103de1bad2"
+    },
+    {
+      "file": "Circle-GPL-3.txt",
+      "origin": "RAD WOLF\\GITHUB-UPDATE-v0.3.5-rc1\\02-RELEASE\\RAD-Wolf-v0.3.5-rc1-source.tar.gz::RAD-Wolf-v0.3.5-rc1-source/upstream/circle-stdlib/libs/circle/LICENSE",
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+    },
+    {
+      "file": "Newlib-notices.txt",
+      "origin": "RAD WOLF\\GITHUB-UPDATE-v0.3.5-rc1\\02-RELEASE\\RAD-Wolf-v0.3.5-rc1-source.tar.gz::RAD-Wolf-v0.3.5-rc1-source/upstream/circle-stdlib/libs/circle-newlib/COPYING.NEWLIB",
+      "sha256": "0ba3cc303a41c4eadf7dd1623cfb6f0abf088fb69d9c1b420deb1fa1a75e3026"
+    },
+    {
+      "file": "Circle-README.md",
+      "origin": "RAD-Wolf-v0.3.5-rc1-source.tar.gz::RAD-Wolf-v0.3.5-rc1-source/upstream/circle-stdlib/libs/circle/README.md",
+      "sha256": "ee6100ef766d3e72c7071459979af01d426339b450664c388364b3248c1b4d12"
+    },
+    {
+      "file": "Wolf-glue-GPL-3.txt",
+      "origin": "../RAD WOLF/GITHUB-RAD-WOLF/LICENSE (reference only; no glue copied)",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    {
+      "file": "SDL2-Ubuntu-copyright.txt",
+      "origin": "WSL Ubuntu: /usr/share/doc/libsdl2-2.0-0/copyright",
+      "sha256": "33a0564f6eca16eb8234f17cb0ef51004dfa0755c55624a673cc5574a4e22cf4"
+    },
+    {
+      "file": "glibc-Ubuntu-copyright.txt",
+      "origin": "WSL Ubuntu: /usr/share/doc/libc6/copyright",
+      "sha256": "d3c95b56fa33e28b57860580f0baf4e4f4de2a268a2b80f1d031a5191bade265"
+    }
+  ]
+}

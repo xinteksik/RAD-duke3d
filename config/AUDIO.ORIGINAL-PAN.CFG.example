@@ -1,0 +1,10 @@
+# Original Duke MIDI panorama; stereo remains enabled.
+# SID types/addresses follow the frozen Wolf mixed-SID test preset.
+STEREO=ON
+SID1_ADDRESS=$D400
+SID1_TYPE=8580
+SID2_ADDRESS=$D500
+SID2_TYPE=6581
+STEREO_WIDTH=100
+# Disable extra instrument placement. Explicit MIDI/SoundFont pan is preserved.
+MIDI_STEREO_WIDTH=0

@@ -1,0 +1,186 @@
+{
+  "candidate": "0.0.6-weapons01",
+  "kernel_sha256": "c00374301d26d59e4e2677c7b7d6dc975f7279e97a71de728dff16a4b60f6454",
+  "kernel_bytes": 1232240,
+  "grp_edition": "Duke Nukem 3D shareware 1.3D",
+  "grp_sha256": "f943d0c2e2a0803a644a2107c81ea897dec87596d9dd1a6a432131ad6f5818d6",
+  "audio_backend_initialized": true,
+  "menu_arrows": "IJKL",
+  "menu_confirm": "Return",
+  "hardware_tested": false,
+  "sd_device_written": false,
+  "private_local_package": true,
+  "public_distribution_license_resolved": false,
+  "boot_config_change": "kernel filename only; all other bytes inherited",
+  "boot_origins": [
+    {
+      "file": "bootcode.bin",
+      "sha256": "2f0ca5a15006c1fb3960858af2b8bfde5f04cab2a0cb834b70a1f2c6f1a76067",
+      "origin": "frozen RAD-Wolf SD-CONTENTS/bootcode.bin"
+    },
+    {
+      "file": "start.elf",
+      "sha256": "4c3c003c1845b8ced40c1df8dea85aaa1975a921454c6282bf694ee22d5bbb68",
+      "origin": "frozen RAD-Wolf SD-CONTENTS/start.elf"
+    },
+    {
+      "file": "fixup.dat",
+      "sha256": "7bf95d9c1eb48a021e62ec8160576364bb3e0eaa03924ec5bee73a1fccabcec6",
+      "origin": "frozen RAD-Wolf SD-CONTENTS/fixup.dat"
+    },
+    {
+      "file": "start_cd.elf",
+      "sha256": "6472f138c5b71bf1c9995bb374a39a290ae89017a8aa3b17bc8bbaa08ac87a3a",
+      "origin": "frozen RAD-Wolf SD-CONTENTS/start_cd.elf"
+    },
+    {
+      "file": "fixup_cd.dat",
+      "sha256": "1f1fa3364f0a560f44862be8f14caca54d096f32a4a9362dc9ae0a80c39bcf69",
+      "origin": "frozen RAD-Wolf SD-CONTENTS/fixup_cd.dat"
+    },
+    {
+      "file": "rad-prefetch.bin",
+      "sha256": "569a8715b2659edf1c92a29507cf54e57c3707081f50c98e800d5adf36c6e54a",
+      "origin": "frozen RAD-Wolf SD-CONTENTS/rad-prefetch.bin"
+    },
+    {
+      "file": "RAD/rad.cfg",
+      "sha256": "1679be532f00559ea3da35bff087a87127b249924dffe418ba6ca4f740dee377",
+      "origin": "frozen RAD-Wolf SD-CONTENTS/RAD/rad.cfg"
+    },
+    {
+      "file": "LICENSES/C64CAST-MIT.txt",
+      "sha256": "569e95d2ffcde2d789a52159d3c0277fb8e50f7d4ef28691c91d8ae9dcff77a6",
+      "origin": "frozen RAD-Wolf SD-CONTENTS/LICENSES/C64CAST-MIT.txt"
+    },
+    {
+      "file": "LICENSES/Circle-GPL-3.0.txt",
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "origin": "frozen RAD-Wolf SD-CONTENTS/LICENSES/Circle-GPL-3.0.txt"
+    },
+    {
+      "file": "LICENSES/circle-stdlib-GPL-3.0.txt",
+      "sha256": "589ed823e9a84c56feb95ac58e7cf384626b9cbf4fda2a907bc36e103de1bad2",
+      "origin": "frozen RAD-Wolf SD-CONTENTS/LICENSES/circle-stdlib-GPL-3.0.txt"
+    },
+    {
+      "file": "LICENSES/GPL-3.0.txt",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "origin": "frozen RAD-Wolf SD-CONTENTS/LICENSES/GPL-3.0.txt"
+    },
+    {
+      "file": "LICENSES/FatFs.txt",
+      "sha256": "cb86377725ebd1a706a06d7b7bbf494986f4840490fd191317eb7535bad933fb",
+      "origin": "frozen RAD-Wolf SD-CONTENTS/LICENSES/FatFs.txt"
+    },
+    {
+      "file": "LICENSES/GCC-RUNTIME-EXCEPTION.txt",
+      "sha256": "9d6b43ce4d8de0c878bf16b54d8e7a10d9bd42b75178153e3af6a815bdc90f74",
+      "origin": "frozen RAD-Wolf SD-CONTENTS/LICENSES/GCC-RUNTIME-EXCEPTION.txt"
+    },
+    {
+      "file": "LICENSES/LICENCE.broadcom",
+      "sha256": "c7283ff51f863d93a275c66e3b4cb08021a5dd4d8c1e7acc47d872fbe52d3d6b",
+      "origin": "frozen RAD-Wolf SD-CONTENTS/LICENSES/LICENCE.broadcom"
+    },
+    {
+      "file": "LICENSES/Newlib-notices.txt",
+      "sha256": "0ba3cc303a41c4eadf7dd1623cfb6f0abf088fb69d9c1b420deb1fa1a75e3026",
+      "origin": "frozen RAD-Wolf SD-CONTENTS/LICENSES/Newlib-notices.txt"
+    },
+    {
+      "file": "LICENSES/RAD-PREFETCH-BSD.txt",
+      "sha256": "a0f204acf6fa280dedc1f588312b09737a883c115e88ba905d278302eabb12bb",
+      "origin": "frozen RAD-Wolf SD-CONTENTS/LICENSES/RAD-PREFETCH-BSD.txt"
+    }
+  ],
+  "upstream": {
+    "name": "JFDuke3D",
+    "url": "https://github.com/jonof/jfduke3d.git",
+    "revision": "55c5f9592d2a78e427a2bbdb13ce3c4c9ccf6f04",
+    "priority": "first_host_candidate",
+    "submodules": [
+      {
+        "path": "jfbuild",
+        "revision": "40a98be571e359a70fc60476899e4650e285dbca",
+        "url": "https://github.com/jonof/jfbuild.git"
+      },
+      {
+        "path": "jfaudiolib",
+        "revision": "68be97f6d33d7be2421a6bea437f21c60d70f8bb",
+        "url": "https://github.com/jonof/jfaudiolib.git"
+      },
+      {
+        "path": "jfmact",
+        "revision": "731c0cc4aabd3cc0f510c9322825f1b61b2e47b3",
+        "url": "https://github.com/jonof/jfmact.git"
+      }
+    ]
+  },
+  "controls": {
+    "arrows": "IJKL",
+    "confirm": "Return",
+    "fire": "Commodore or F",
+    "jump": "A",
+    "run": "Left Shift or Right Shift",
+    "use": "Space",
+    "crouch": "Z",
+    "weapons": "1-0; original ownership and edition rules"
+  },
+  "previous_candidate_user_boot_report": true,
+  "alpha_version": "v0.1.0-alpha.2",
+  "hardware_hash_independently_verified": false,
+  "hardware_report": "../references/hardware-tests/0.0.6-weapons01.json",
+  "effects_enabled": true,
+  "midi_music_enabled": true,
+  "music_backend": "TinySoundFont/TinyMidiLoader; 44100 -> 95-tap FIR -> 22050 Hz SID ring",
+  "soundfont_sha256": "a9058609b07c1f0e0c1f420e76c2e80ba78136e6173e836caab51ffb13e552f1",
+  "previous_user_tested_candidate": "0.0.4-stereo01",
+  "previous_kernel_sha256": "54e1485740b96a6d879c6f23af84ff9cec99c5f87e4d20cf423ec51f1247ab27",
+  "hardware_test_scope": "Host weapons/audio tests and full ARM64 link; physical test pending",
+  "audio_config": "RADDUKE/AUDIO.CFG",
+  "stereo_requested": true,
+  "sid1": {
+    "base": "$D400",
+    "type": "8580"
+  },
+  "sid2": {
+    "base": "$D500",
+    "type": "6581"
+  },
+  "midi_stereo_width": 0,
+  "effects_backend": "cooperative pinned JFAudioLib MultiVoc, 22050 Hz stereo signed16, 16 voices",
+  "previous_candidate": "0.0.5-audio01",
+  "source_sha256": {
+    "src/radduke_audio_config.c": "377d4964b276dcf2d362fdf8ea38936f64d3ece44a12d94bca2e3647c49bdba0",
+    "src/radduke_audio_config.h": "bff93b6a855b794cc98f0a148a1942dc003f3225f457df1723524d5cb8dc74a4",
+    "src/radduke_audio_startup.c": "b73e0918bc7e037f2fc01bdcc3611e7fb8f5aeb4268bbda6c102d1cc8cf96a09",
+    "src/radduke_build_platform.c": "f547a0684965291b046491563fd2d2be1f280e684986fd5e0211f3d55cdf2602",
+    "src/radduke_downsample.c": "dae20a1f9063159e78589f7b8cc3539eb818d74f74828b398f259441d2a6a3b3",
+    "src/radduke_downsample.h": "9cb8bfe291ed523d77af139d1058a8e7368e7bccfcc9fc1963083590c38acedd",
+    "src/radduke_downsample_coeffs.h": "6b84411dc37d8520c10e8ee6c22f45cb006c7ef8d267d1831a9aa4fe923426ae",
+    "src/radduke_fs.cpp": "485b00ca781351db44a2cdde46d5dc01710a942d6043be721b0bf8dfc5e471e2",
+    "src/radduke_fs.h": "5bf78d3fb82a52d46cf78da765c0b37f7d35dbb856f25dfc279e22277ebe652e",
+    "src/radduke_kernel.cpp": "8b7f606984fe559fa8aa25f1f612f322d38acb1b5fc2cefed6644d8744c22e93",
+    "src/radduke_music.c": "f847d5535471a854199d207f4bf3073fb0ff3a96bb0a6f9cfd14e72ca134882b",
+    "src/radduke_music.h": "22bb85b72757be66c0de558efee75de532cb60cb93a425a12617f556ed554e3f",
+    "src/radduke_music_ring.c": "55a2071805e898501cf9f245cb31eeb38911051ce81c2033e164b751901a95af",
+    "src/radduke_newlib_io.cpp": "c5b30f16ecac474f4bde1370489a54ebf82cd9e88aaadcb8a2bafce921a88d64",
+    "src/radduke_pathstat.c": "4bcaff6d427786124b3e4e36fa787f8b0fffdc1afe429b45c69d294f204f5535",
+    "src/radduke_pathstat.h": "f62d285526e4f35ed39a57876b3eec0f091bfff862b8d9980429bb2a99539491",
+    "src/radduke_pcm.c": "9f6cfac533b2f13161eb68cbdbe2d641feb7958af53c59514b3d0d62e375f42c",
+    "src/radduke_pcm.h": "c4453907bf5fe533df95a93e5c307881d18201ee7a4de98764c318a164af36a6",
+    "src/radduke_platform.h": "8ee9b96c64fea0d70f223e634708ce88e1bab105cce7c4b9bae2488679beeb43",
+    "src/radduke_rad_bindings.cpp": "12d010a5413f104d94d9241cbe4a848fd61fe99a76772d3ac73cd96ece5beb48",
+    "src/radduke_rad_hijack.cpp": "73badf398e1037b17bc4acfbc8ad1009541b96533825e52c31fa68650e68640a",
+    "src/radduke_rad_video.c": "b3fe56ea59185758c363f7a3b30c35f00f994beaafc60019cde82d9d62b85634",
+    "config/AUDIO.CFG.example": "25b9ffc659e5998859ede065242448b7fa8b8c9a1244a41e0ce382c96d25a183",
+    "config/AUDIO.MONO8580.CFG.example": "d34ae7f5002e8c96a92c354fbf6276e004d78032d21801bfaf161496d8367d8e",
+    "config/AUDIO.ORIGINAL-PAN.CFG.example": "eed28c1c40081ab936df98aee19a452d724a7adfc657a37c194f2dd739d7c724",
+    "config/AUDIO.STEREO.REAL-SID.CFG.example": "0fa54c951e45f1c377961cfd500c6e6694ecc8b2e75487338cbe2aa2663a3b2d",
+    "config/AUDIO.ULTISID.CFG.example": "ad2a1c5ce8d0b008dbaeab50690118f93b97aa1e041b29779a4fabf97869dfa6",
+    "config/AUDIO.VOLUME.CFG.example": "c3853881392034b826402ad6e63fc87dc1ce20a2fa6e09b7682ef20df03e84d6",
+    "third_party/tml.h": "93257db259e0efb2ea2037d7157841bec8cb4a2d7986286e43c8090705326546",
+    "third_party/tsf.h": "70d55963c98f60ebb81518eaa1f25d46888d5180eb5f5289fd6b74ffc177d197"
+  }
+}
